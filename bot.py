@@ -118,30 +118,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
-
-Нажми **"Commit changes"** (зелёная кнопка справа вверху).
-
----
-
-**Файл 2: `requirements.txt`**
-
-Снова нажми **"Add file" → "Create new file"**, назови `requirements.txt`:
-```
-python-telegram-bot==20.7
-websockets
-aiohttp
-python-dotenv
-```
-
-Нажми **"Commit changes"**.
-
----
-
-**Файл 3: `.github/workflows/run_bot.yml`**
-
-Это самый важный файл — он запускает бота через GitHub Actions.
-
-Нажми **"Add file" → "Create new file"** и в поле имени напиши точно так:
-```
-.github/workflows/run_bot.yml
