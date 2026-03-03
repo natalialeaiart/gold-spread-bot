@@ -116,8 +116,6 @@ The bot will run 24/7 and restart automatically if the server reboots.
 
 ## Author
 
-**Natalia** — freelance developer specializing in trading bots, automation, and crypto tools.
-
 GitHub: [@natalialeaiart](https://github.com/natalialeaiart)
 
 ---
